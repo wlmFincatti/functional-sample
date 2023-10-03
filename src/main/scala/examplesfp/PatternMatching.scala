@@ -1,4 +1,4 @@
-package playground
+package examplesfp
 
 object PatternMatching extends App {
 

@@ -1,4 +1,4 @@
-package playground
+package examplesfp
 
 object CallByNameVsCallByValue extends App {
 

@@ -1,4 +1,4 @@
-package playground
+package examplesfp
 
 import scala.annotation.tailrec
 
